@@ -22,26 +22,33 @@ Fuente: Marc Lamberti
 
 ### FOREX_API
 
+
 ![Forex_api_conn](https://github.com/rodrigosvv/forex_data_pipeline_project/assets/143859478/9402c3c2-6fef-48a5-bb90-d079db9b5c64)
 
+
 ### FOREX_PATH
+
 
 ![Forex_path_conn](https://github.com/rodrigosvv/forex_data_pipeline_project/assets/143859478/2dbe71db-021d-4b74-af10-f6ea5493f2ce)
 
 
 ### HIVE_CONN
 
+
 ![Hive_conn](https://github.com/rodrigosvv/forex_data_pipeline_project/assets/143859478/bc9b36ed-c98e-43fd-88c5-76a7bc5b83e4)
 
 
 ### SPARK_CONN
+
 
 ![Spark_conn](https://github.com/rodrigosvv/forex_data_pipeline_project/assets/143859478/77cfbd52-17eb-432b-8bec-28ed1e0c4a5d)
 
 
 ### SLACK_CONN
 
+
 ![Slack_conn](https://github.com/rodrigosvv/forex_data_pipeline_project/assets/143859478/cea29c02-9cee-44d5-83ae-c916c9e4d22d)
+
 
 NOTA: Para SLACK_CONN, además del host, se requiere colocar un Password con la siguiente estructura (ejemplo): /TXXXXXXXXXX/BXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX
 
