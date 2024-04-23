@@ -4,10 +4,12 @@
 El objetivo de este proyecto, realizado con la ayuda del curso de Udemy de Marc Lamberti, es procesar datos sobre divisas (Forex data), enviar un correo elecrónico y por último una notificación de Slack sobre el éxito del DagRun. 
 
 ## Arquitectura del Proyecto
+<p align="center">
 
 ![Data_pipeline_arquitectura](https://github.com/rodrigosvv/forex_data_pipeline_project/assets/143859478/5a916608-29b8-4a99-8350-af913f3dec70)
 
 Fuente: Marc Lamberti 
+</p>
 
 ### Tech Stack
 - Python
