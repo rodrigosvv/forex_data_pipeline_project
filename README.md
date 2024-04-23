@@ -93,9 +93,13 @@ Por último enviaremos un correo electrónico (EmailOperator) y una notificació
 #### Email y Notifiación de Slack enviadas
 
 Email:
+
+
 ![Email_sent_success](https://github.com/rodrigosvv/forex_data_pipeline_project/assets/143859478/2326917f-f9a2-4589-8ff8-4a57a8c0504f)
 
 Slack: 
+
+
 ![Slack_sent_success](https://github.com/rodrigosvv/forex_data_pipeline_project/assets/143859478/f32f3ea5-9cff-42f7-b8ef-db3ef88b1382)
 
 ### ¡Data Pipeline en acción!
