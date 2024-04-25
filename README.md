@@ -18,6 +18,9 @@ Fuente: Marc Lamberti
 <img alt="Docker" src="https://img.shields.io/badge/Docker-_?logo=docker&color=lightblue" />
 <img alt="Bash" src="https://img.shields.io/badge/BASH-_?logo=gnubash&logoColor=white&color=lightgray" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-_?logo=postgresql&logoColor=white&color=%234169E1" />
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-_?logo=sqlite&color=%23003B57" />
+
+
 
 ## Conexiones a crear en Airflow
 
