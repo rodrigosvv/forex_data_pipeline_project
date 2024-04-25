@@ -10,13 +10,13 @@ El objetivo de este proyecto, realizado con la ayuda del curso de Udemy de Marc 
 Fuente: Marc Lamberti 
 
 ## Tech Stack
-- Python
-- Hadoop
-- Hive
-- Airflow
-- Spark
-- Docker
-- Bash
+- <img alt="Python" src="https://img.shields.io/badge/Python-_?logo=python&color=white" />
+- <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-_?logo=apachehadoop&color=magenta" />
+- <img alt="Apache Hive" src="https://img.shields.io/badge/Apache%20Hive-_?logo=apachehive&color=green" />
+- <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-_?logo=apacheairflow&color=red" />
+- <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-_?logo=apachespark&color=yellow" />
+- <img alt="Docker" src="https://img.shields.io/badge/Docker-_?logo=docker&color=lightblue" />
+- <img alt="Bash" src="https://img.shields.io/badge/BASH-_?logo=gnubash&logoColor=white&color=lightgray" />
 
 ## Conexiones a crear en Airflow
 
